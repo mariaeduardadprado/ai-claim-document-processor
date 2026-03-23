@@ -1,0 +1,9 @@
+Claimant Name: John Smith
+Policy Number: POL-123456
+Incident Date: 2025-01-10
+Claim Amount: $4500
+
+Incident Description:
+The claimant reports that a vehicle accident occurred on January 10th.
+The front bumper and headlights were damaged after collision with another car.
+Repair costs are estimated at $4500.

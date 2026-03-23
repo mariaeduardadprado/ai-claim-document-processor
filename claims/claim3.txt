@@ -1,0 +1,9 @@
+Claimant Name: David Lee
+Policy Number: POL-445221
+Incident Date: 2025-03-01
+Claim Amount: $3000
+
+Incident Description:
+The claimant reports theft of a laptop and camera from his vehicle.
+The incident occurred in a parking lot overnight.
+Total estimated loss is approximately $3000.
